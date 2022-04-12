@@ -2,11 +2,11 @@
 "update_url": "https://clients2.google.com/service/update2/crx",
 
   "manifest_version": 2,
-  "name": "Leaf Browser",
-  "version": "1.2",
-  "author": "Richard Lobo <codingcat@protonmail.com>",
+  "name": "Disguise",
+  "version": "0.1",
+  "author": "Preeperteemer",
 
-  "description": "The continuation of the project Leaf Browser Alpha.",
+  "description": "A browser for kids",
   "icons": {
     "16": "images/icon16.png",
     "32": "images/icon32.png",
